@@ -10,3 +10,5 @@ Una breve descripción de una línea sobre el repositorio (ej: "Almacenamiento y
 *   **Formato Flexible:** Los datos se pueden exportar en JSON, CSV o mediante la API.
 
 ## 📦 Estructura del Repositorio
+
+Las contribuciones son bienvenidas. Por favor, lee las guías de contribución antes de hacer un Pull Request.
